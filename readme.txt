@@ -4,4 +4,6 @@ Git is free software.
 
 change 1 .
 
+add merge.
+
 
